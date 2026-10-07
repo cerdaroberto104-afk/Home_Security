@@ -4,7 +4,7 @@ Proyecto de la **Unidad 2** de *Aplicaciones Móviles para IoT* (TI3042), INACAP
 
 Aplicación Android (Kotlin) para **monitorear sensores** y **controlar dispositivos** de un sistema de seguridad del hogar. Los datos y los usuarios se almacenan en una base de datos **MySQL en Amazon RDS**, a la que la app accede a través de una API alojada en **Amazon EC2**.
 
-**Autor:** [Roberto Carlos Cerda Flores] · **Docente:** [Rodrigo Hernan Orellana Nuñez]
+**Autor:** Roberto Carlos Cerda Flores · **Docente:** Rodrigo Hernan Orellana Nuñez
 
 ## Funcionalidades
 
