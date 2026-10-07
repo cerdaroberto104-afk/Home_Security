@@ -76,8 +76,7 @@ class LoginActivity : AppCompatActivity() {
             conn.disconnect()
             json.getBoolean("success")
         } catch (e: Exception) {
-            (usuario == "admin" && password == "admin123") ||
-                    (usuario == "bael"  && password == "bael123")
+            false
         }
     }
 }
